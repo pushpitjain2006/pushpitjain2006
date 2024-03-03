@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate after growning up
-- 📫 Don't try to reach me 
+- 📫 Do reach out to me 
 
 <!---
 pushpitjain2006/pushpitjain2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
