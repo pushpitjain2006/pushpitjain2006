@@ -12,8 +12,6 @@
 
 ## 📈 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pushpitjain2006&layout=compact&theme=radical)](https://github.com/pushpitjain2006)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pushpitjain2006&theme=radical)](https://git.io/streak-stats)
-
 
 
 ## 🌱 Currently Learning
