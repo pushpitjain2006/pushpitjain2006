@@ -1,18 +1,17 @@
 # Hi there, I'm Pushpit Jain! 👋
 
 
-
 ## 🚀 About Me
 
 - 🎓 **3rd-year Software Engineering student** at Delhi Technological University (DTU)
-- 🏆 **Knight @LeetCode** | 600+ DSA problems solved
-- 🛠️ **Full-Stack Developer** (C++, Python, JavaScript, TypeScript)
+- 🏆 **Knight @LeetCode** | 500+ DSA problems solved (C++)
+- 🛠️ **Full-Stack Developer** (JavaScript, TypeScript, React.js, Node.js, Express, Next.js)
 - 🌐 Passionate about building scalable products and automation tools
 - 🤝 Always open to collaboration and learning from the community
 
 ## 📈 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pushpitjain2006&layout=compact&theme=radical)](https://github.com/pushpitjain2006)
-
+> “If it works, branch out and break it." - wise software engineer
 
 ## 🌱 Currently Learning
 
@@ -33,8 +32,6 @@
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode (sIKzrqhaOp)"/>
   </a>
 </p>
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 Feel free to drop a “Hi” or reach out for collaborations, brainstorming, or just a friendly chat!
 [![trophy](https://github-profile-trophy.vercel.app/?username=pushpitjain2006&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
