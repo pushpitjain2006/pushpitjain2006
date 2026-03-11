@@ -34,5 +34,4 @@
 </p>
 
 Feel free to drop a “Hi” or reach out for collaborations, brainstorming, or just a friendly chat!
-[![trophy](https://github-profile-trophy.vercel.app/?username=pushpitjain2006&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 ![Visitor Count](https://komarev.com/ghpvc/?username=pushpitjain2006&color=blue)
