@@ -1,26 +1,19 @@
-# Hi there, I'm Pushpit Jain! 👋
+# Hi there, I'm Pushpit Jain!
 
+## About Me
 
-## 🚀 About Me
+- **Software Development Engineer** at [Heizen](https://heizen.co)
+- **Software Engineering student** at Delhi Technological University (DTU)
+- **Knight @LeetCode** | 500+ DSA problems solved (C++)
+- **Full-Stack Developer** (TypeScript, React.js, Next.js, Node.js, Express)
+- Passionate about building scalable products and automation tools
+- Always open to collaboration and learning from the community
 
-- 🎓 **3rd-year Software Engineering student** at Delhi Technological University (DTU)
-- 🏆 **Knight @LeetCode** | 500+ DSA problems solved (C++)
-- 🛠️ **Full-Stack Developer** (JavaScript, TypeScript, React.js, Node.js, Express, Next.js)
-- 🌐 Passionate about building scalable products and automation tools
-- 🤝 Always open to collaboration and learning from the community
-
-## 📈 GitHub Stats
+## GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pushpitjain2006&layout=compact&theme=radical)](https://github.com/pushpitjain2006)
-> “If it works, branch out and break it." - wise software engineer
+> "If it works, branch out and break it." - wise software engineer
 
-## 🌱 Currently Learning
-
-- Docker & Kubernetes
-- Cloud Infrastructure
-- CI/CD pipelines & automated testing
-
-
-## 📫 Let's Connect
+## Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/pushpitjain/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
@@ -29,9 +22,9 @@
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
   </a>
   <a href="https://leetcode.com/u/sIKzrqhaOp" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode (sIKzrqhaOp)"/>
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </p>
 
-Feel free to drop a “Hi” or reach out for collaborations, brainstorming, or just a friendly chat!
+Feel free to drop a "Hi" or reach out for collaborations, brainstorming, or just a friendly chat!
 ![Visitor Count](https://komarev.com/ghpvc/?username=pushpitjain2006&color=blue)
