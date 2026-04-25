@@ -3,8 +3,7 @@
 ## About Me
 
 - **Software Development Engineer** at [Heizen](https://heizen.co)
-- **Software Engineering student** at Delhi Technological University (DTU)
-- **Knight @LeetCode** | 500+ DSA problems solved (C++)
+- **Software Engineering** @ Delhi Technological University (DTU)
 - **Full-Stack Developer** (TypeScript, React.js, Next.js, Node.js, Express)
 - Passionate about building scalable products and automation tools
 - Always open to collaboration and learning from the community
