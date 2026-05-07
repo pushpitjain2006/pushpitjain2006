@@ -16,9 +16,6 @@
   <a href="https://x.com/Pushpit_jain_18" target="_blank">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
   </a>
-  <a href="https://leetcode.com/u/sIKzrqhaOp" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
 </p>
 
 Feel free to drop a "Hi" or reach out for collaborations, brainstorming, or just a friendly chat!
