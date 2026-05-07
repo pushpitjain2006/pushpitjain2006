@@ -8,10 +8,6 @@
 - Passionate about building scalable products and automation tools
 - Always open to collaboration and learning from the community
 
-## GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pushpitjain2006&layout=compact&theme=radical)](https://github.com/pushpitjain2006)
-> "If it works, branch out and break it." - wise software engineer
-
 ## Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/pushpitjain/" target="_blank">
