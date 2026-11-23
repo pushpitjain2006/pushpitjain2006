@@ -2,10 +2,10 @@
 
 ## About Me
 
-- **Software Engineering Intern** at NatWest Group
+- **Software Engineering Intern** at Heizen
 - **Final-Year Software Engineering Student** @ Delhi Technological University (DTU)
 - **Full-Stack Developer** specializing in Next.js, Node.js, TypeScript, and AWS
-- **Experience:** Shipped production-grade enterprise applications and cloud-native deployments across multiple internships (including Heizen and Venttup)
+- **Experience:** Shipped production-grade enterprise applications and cloud-native deployments across multiple internships (including NatWest Group, Heizen and Venttup)
 - **Problem Solver:** Competitive programming enthusiast (LeetCode Knight, Codeforces Specialist)
 
 ## Let's Connect
